@@ -12,6 +12,7 @@
         "main.py",
         "MagicBookmark.ts",
         "MagicBookmark.md"
+        "tato.png"
     ],
     "testFiles": [
         "test.ts"
