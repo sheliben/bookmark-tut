@@ -9,7 +9,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py"
+        "main.py",
+        "MagicBookmark.ts",
+        "MagicBookmark.md"
     ],
     "testFiles": [
         "test.ts"
