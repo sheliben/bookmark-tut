@@ -1,11 +1,12 @@
 let readingscore = 0
 let magnear = false
-let Total = 0
+let totalscore = 0
 input.calibrateCompass()
 let magforce = Math.abs(input.magneticForce(Dimension.Strength))
 basic.forever(function () {
-    basic.showNumber(total)
-    magnear = magforce > 100
+    let magforce2 = 0
+    basic.showNumber(totalscore)
+    magnear = magforce2 > 100
     if (input.buttonIsPressed(Button.A)) {
         basic.showIcon(IconNames.Sad)
         basic.showString("read")
@@ -15,7 +16,7 @@ basic.forever(function () {
         basic.showIcon(IconNames.Heart)
     }
     if (readingscore > 600) {
-        Total += 1
+        totalscore += 1
         readingscore = 0
     }
 })
