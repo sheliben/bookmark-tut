@@ -12,7 +12,6 @@
         "main.py",
         "MagicBookmark.ts",
         "MagicBookmark.md"
-        "tato.gif"
     ],
     "testFiles": [
         "test.ts"
@@ -20,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
