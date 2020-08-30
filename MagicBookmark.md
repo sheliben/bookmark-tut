@@ -1,5 +1,5 @@
 # MagicBookmark
-###@activities false
+###@activities true
 ###@explicitHints true
 
 # introduction@fullscreen
