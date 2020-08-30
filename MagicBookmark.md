@@ -2,7 +2,7 @@
 ###@activities false
 ###@explicitHints true
 
-## introduction@fullscreen
+# introduction@fullscreen
 
 בפרויקט זה נכין  קוד לסמניית קסם שעוקבת אחרי הקריאה שלנו
 ![למשל](book-mark-set_2.jpg)
